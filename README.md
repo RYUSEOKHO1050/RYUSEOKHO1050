@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+류석호 · Seokho Ryu
+Industrial Engineering @ Kyung Hee University
+</div>
 
-<!--
-**RYUSEOKHO1050/RYUSEOKHO1050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About
 
-Here are some ideas to get you started:
+Exploring the frontier of Agentic AI — systems that plan, reason, and act autonomously.
+경희대학교 산업공학과에서 인간-시스템 최적화를 공부하며,
+AI 에이전트가 실세계 문제를 스스로 풀어가는 방식에 관심을 두고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Stack
+이미지 표시
+이미지 표시
+
+GitHub Stats
+<div align="center">
+이미지 표시
+이미지 표시
+</div>
+
+Interests
+
+🤖 Agentic AI / LLM 
+🏭 Industrial Engineering & Systems Optimization
+
+
+<div align="center">
+"Keep it simple. Make it work."
+</div>
