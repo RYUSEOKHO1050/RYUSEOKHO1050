@@ -13,17 +13,11 @@
 
 ### 👤 About Me
 
-```python
-profile = {
-    "name"     : "류석호 (Seokho Ryu)",
-    "school"   : "경희대학교 산업공학과",
-    "focus"    : "Agentic AI — systems that plan, reason, and act",
-    "interests": ["LLM Orchestration", "Systems Optimization", "Human-AI Collaboration"],
-    "status"   : "🟢 open to collaborate"
-}
-```
-
-> 복잡한 시스템을 단순하게 만드는 것, 그리고 **AI가 스스로 생각하는 방식**에 매력을 느낍니다.
+- 🎓 &nbsp;경희대학교 산업공학과 재학 중
+- 🤖 &nbsp;**Agentic AI** — 스스로 계획하고 행동하는 AI 시스템을 탐구합니다
+- 🔧 &nbsp;LLM Orchestration · Systems Optimization · Human-AI Collaboration
+- 🌱 &nbsp;복잡한 문제를 단순하게 푸는 것에 매력을 느낍니다
+- 🟢 &nbsp;Open to collaborate
 
 ---
 
