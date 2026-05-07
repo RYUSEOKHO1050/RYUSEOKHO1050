@@ -52,6 +52,9 @@
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [**NLP-Persona**](https://github.com/RYUSEOKHO1050/NLP-Persona) | 사이버펑크 2077 구매 의도 시뮬레이션 — 페르소나 기반 Multi-Agent RAG 비교 분석 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-ChromaDB-orange?style=flat-square) |
+| [**NLP-CoverLetter**](https://github.com/RYUSEOKHO1050/NLP-CoverLetter) | 자소서 텍스트에서 주장을 추출하고 즉석 후속 질문으로 사실 여부를 검증하는 시스템 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| [**NLP-malpyeong**](https://github.com/RYUSEOKHO1050/NLP-malpyeong) | 한국어 일상 대화 문장 연결 태스크 — RoBERTa 기반 앙상블 모델 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [**wood-judge-apps**](https://github.com/RYUSEOKHO1050/wood-judge-apps) | 자연어로 상황을 입력하면 유사 판례 기반 법률 조언을 제공하는 AI 서비스 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-LegalAI-blue?style=flat-square) |
 
 </div>
 
