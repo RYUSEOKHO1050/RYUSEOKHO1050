@@ -22,8 +22,7 @@
 - Conversational AI
 
 📬 **Contact**
-- 이메일 입력
-- 링크드인 입력
+- fbtjrgh1050@khu.ac.kr
 
 ---
 
