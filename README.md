@@ -51,9 +51,7 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**Project Name**](https://github.com/RYUSEOKHO1050) | 한 줄 프로젝트 설명 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Project Name**](https://github.com/RYUSEOKHO1050) | 한 줄 프로젝트 설명 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Project Name**](https://github.com/RYUSEOKHO1050) | 한 줄 프로젝트 설명 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**NLP-Persona**](https://github.com/RYUSEOKHO1050/NLP-Persona) | 사이버펑크 2077 구매 의도 시뮬레이션 — 페르소나 기반 Multi-Agent RAG 비교 분석 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-ChromaDB-orange?style=flat-square) |
 
 </div>
 
