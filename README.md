@@ -45,6 +45,20 @@
 
 ---
 
+### 🚀 Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**Project Name**](https://github.com/RYUSEOKHO1050) | 한 줄 프로젝트 설명 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Project Name**](https://github.com/RYUSEOKHO1050) | 한 줄 프로젝트 설명 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Project Name**](https://github.com/RYUSEOKHO1050) | 한 줄 프로젝트 설명 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+---
+
 ### 🔭 Interests
 
 | 분야 | 키워드 |
