@@ -14,13 +14,12 @@
 ### 👤 About Me
 
 🎓 **Education**
-- 경희대학교 산업공학과
-- 학년/학번 입력
+- 경희대학교 산업공학과 · 22학번 · 4학년
 
 🔬 **Research Interests**
-- 관심 분야 1
-- 관심 분야 2
-- 관심 분야 3
+- LLM · Large Language Models
+- Agentic AI · AI Agent Systems
+- Conversational AI
 
 📬 **Contact**
 - 이메일 입력
