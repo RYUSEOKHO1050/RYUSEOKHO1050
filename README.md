@@ -13,11 +13,18 @@
 
 ### 👤 About Me
 
-- 🎓 &nbsp;경희대학교 산업공학과 재학 중
-- 🤖 &nbsp;**Agentic AI** — 스스로 계획하고 행동하는 AI 시스템을 탐구합니다
-- 🔧 &nbsp;LLM Orchestration · Systems Optimization · Human-AI Collaboration
-- 🌱 &nbsp;복잡한 문제를 단순하게 푸는 것에 매력을 느낍니다
-- 🟢 &nbsp;Open to collaborate
+🎓 **Education**
+- 경희대학교 산업공학과
+- 학년/학번 입력
+
+🔬 **Research Interests**
+- 관심 분야 1
+- 관심 분야 2
+- 관심 분야 3
+
+📬 **Contact**
+- 이메일 입력
+- 링크드인 입력
 
 ---
 
@@ -42,23 +49,6 @@
 | [**NLP-CoverLetter**](https://github.com/RYUSEOKHO1050/NLP-CoverLetter) | 자소서 주장 추출 및 즉석 후속 질문으로 사실 검증하는 시스템 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | [**NLP-malpyeong**](https://github.com/RYUSEOKHO1050/NLP-malpyeong) | 한국어 일상 대화 문장 연결 태스크 — RoBERTa 기반 앙상블 모델 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 | [**wood-judge-apps**](https://github.com/RYUSEOKHO1050/wood-judge-apps) | 자연어로 상황 입력 시 유사 판례 기반 법률 조언을 제공하는 AI 서비스 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RYUSEOKHO1050&show_icons=true&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=555555&bg_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYUSEOKHO1050&layout=compact&hide_border=true&title_color=4A90E2&text_color=555555&bg_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RYUSEOKHO1050&theme=github&hide_border=true&color=4A90E2&line=4A90E2&point=4A90E2)
 
 </div>
 
